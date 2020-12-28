@@ -10,7 +10,7 @@ public class SimpleTests {
 
     @Test
     void negativeTest() {
-        assertEquals(2 * 2, 4);
+        assertEquals(2 * 2, 3);
 
     }
 
